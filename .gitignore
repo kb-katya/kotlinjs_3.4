@@ -4,5 +4,8 @@
 /gradlew.bat
 /gradle
 /.gradle/
-/build/
-/build/js/packages/kotlinjs/kotlin/
+/build/js
+/build/kotlin
+/build/processedResources
+/build/reports
+/build/tmp
