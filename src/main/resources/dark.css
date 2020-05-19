@@ -1,0 +1,27 @@
+a, body {
+    background-color: darkslategray;
+    color: white;
+}
+
+button {
+    margin: 0 5px;
+    min-width: 80px;
+    cursor: pointer;
+}
+
+.present {
+    font-weight: bold;
+}
+
+.absent {
+    font-style: italic;
+}
+
+.normal {
+
+}
+
+.fakeLink {
+    text-decoration: underline;
+    cursor: pointer;
+}
